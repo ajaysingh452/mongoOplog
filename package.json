@@ -1,0 +1,16 @@
+{
+  "name": "mongoWatch",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "mongoose": "^4.7.2",
+    "postal": "^2.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajay Singh",
+  "license": "GPL"
+}
